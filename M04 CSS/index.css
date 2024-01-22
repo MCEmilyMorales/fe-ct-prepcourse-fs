@@ -1,0 +1,191 @@
+body{
+    width: 1920px;
+    height: 1150px;
+    background: #000;
+    color: white;
+    
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+}
+
+.grupo1{
+    width: 725px;
+    height: 746px;
+    flex-shrink: 0;
+    margin-left: 61px;
+    border-left: 2px solid white;
+    padding-left: 72px;
+    color: #FFFFFF;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+.Practice-makes-perfect{
+    width: 551px;
+    height: 61px;
+    font-family: 'Inter', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF4D;
+}
+
+.ui{
+    width: 272px;
+    height: 370px;
+    font-size: 290px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: left;
+    position: relative;
+    bottom: 54px;
+}
+.Practice{
+    width: 653px;
+    height: 209px;
+    font-size: 163px;
+    font-weight: 400;
+    line-height: 209px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+    bottom: 120px;
+}
+
+.Designed{
+    width: 409px;
+    height: 55px;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: inline-flex;
+    align-items: center;
+}
+
+#frame3{
+    display: flex;
+    columns: auto;
+    position: relative;
+    bottom: 110px;
+}
+
+#frame4{
+    display: flex;
+    position: relative;
+    bottom: 110px;
+    margin-top: 45px;
+}
+
+.Emily{
+    color: #fffd38;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+
+}
+
+.Memojis{
+    width: 60px;
+    height: 60px;
+}
+#bloque-rosa{
+    width: 781px;
+    height: 55px;
+    flex-shrink: 0;
+    margin-top: 71px;
+    margin-bottom:48px;
+    background: #FD1EBD;
+}
+#bloque-amarillo{
+  width: 611px;
+  height: 55px;
+  flex-shrink: 0;
+  background-color: #fffd38;  
+  left: 1309px;
+}
+
+.numero4{
+    display: flex;
+    margin:auto;
+    position: relative;
+    bottom: 787px;
+    right: 125px;
+    
+}
+
+.flecha-izquierda{
+
+    flex-shrink: 0;
+    display: flex;
+    margin:auto;
+    position: relative;
+    bottom: 490px;
+    right: 213px;
+
+}
+
+.flecha-derecha{
+
+    transform: rotate(0);
+    display: flex;
+    margin:auto;
+    position: relative;
+    bottom: 965px;
+    right: 36px;
+
+}
+
+.Designers{
+    color: #FFF;
+    font-family: 'Ephesis', 'cursive;';
+    font-size: 163.445px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: left;
+    position: relative;
+    bottom: 1000px;
+    left: 900px;
+}
+
+.Newbies-y-Intermediate{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: "Space Grotesk";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    bottom: 925px;
+    left: 1150px;
+
+}
+
+.Estrella-rosa{
+    position: relative;
+    left: 1726px;
+    bottom: 810px;
+    z-index: 1;
+}
+
+.bloque-inferior-amarillo{
+    width: 121.746px;
+    height: 33.835px;
+    top: 1055px;
+    left: 1730px;
+    background-color: #fffd38;  
+    position: absolute;
+
+}
